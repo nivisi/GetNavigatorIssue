@@ -91,15 +91,6 @@ class HomePage extends GetView<HomeController> {
           index: controller.index,
         ),
       ),
-      // body: GetBuilder(
-      //   init: controller,
-      //   builder: (controller) {
-      //     return IndexedStack(
-      //       children: pages,
-      //       index: controller.index,
-      //     );
-      //   },
-      // ),
     );
   }
 }

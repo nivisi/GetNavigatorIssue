@@ -1,6 +1,6 @@
 # Get Navigator Issue
 
-This is a reproduction of the `GetNavigator` bug.
+This is a reproduction of the `GetNavigator` bug, [the issue is opened here](https://github.com/jonataslaw/getx/issues/1423).
 
 ## The problem
 
